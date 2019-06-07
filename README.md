@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tyronik/BasicSendReceiveTutorialwithFilters/_apis/build/status/chrisd013.pipelines-java?branchName=master)](https://dev.azure.com/tyronik/BasicSendReceiveTutorialwithFilters/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
